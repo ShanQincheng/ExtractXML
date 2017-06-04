@@ -7,7 +7,7 @@
 * 轉為字符串存放到 .txt 檔案中
 
 ###### 檔案資料型別如下
-![](/content/images/2017/06/QQ--20170604141526.png)
+![](codingstory.com.cn/content/images/2017/06/QQ--20170604141526.png)
 ###### 那麼提取出的一行字符串會是
 ```
 C0C4802016-05-16T12:40:00+08:0020.3
@@ -358,7 +358,7 @@ public class ExtractXML {
 ***
 
 ### 最終效果，以及提供完整 xml 文件下載地址
-![](/content/images/2017/06/QQ--20170604162053.png)
+![](codingstory.com.cn/content/images/2017/06/QQ--20170604162053.png)
 
 ***
 # 以上
