@@ -11,7 +11,7 @@
 
 ###### 檔案資料型別如下
 
-![](codingstory.com.cn/content/images/2017/06/QQ--20170604141526.png)
+![](http://codingstory.com.cn/content/images/2017/06/QQ--20170604141526.png)
 
 ###### 那麼提取出的一行字符串會是
 ```
@@ -364,7 +364,7 @@ public class ExtractXML {
 
 ### 最終效果，以及提供完整 xml 文件下載地址
 
-![](codingstory.com.cn/content/images/2017/06/QQ--20170604162053.png)
+![](http://codingstory.com.cn/content/images/2017/06/QQ--20170604162053.png)
 
 ##### xml 文件下載地址在 data 資料夾中
 
