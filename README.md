@@ -1,3 +1,6 @@
+## 如果 gitbug 顯示效果不佳的話，請移步 http://codingstory.com.cn/dom4j-ti-qu-xml-ge-shi-wen-jian-xin-xi/
+
+
 # 前言
 * 有一批 xml 格式存儲的天氣情況資料檔
 * 現在需要提取出其中指定資料
